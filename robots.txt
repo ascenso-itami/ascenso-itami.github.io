@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ascenso-itami.github.io/sitemap.xml
