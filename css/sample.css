@@ -2637,6 +2637,8 @@ body {
     .page-join .concept-catch h2 { font-size: clamp(24px,6.6vw,34px); }
     .site-page .concept-catch p,.site-page .concept-body p { font-size: 13px; }
     .site-page .about-sub-section { margin-top: 46px; padding-top: 30px; }
+    .page-about .info-row { flex-direction: column; gap: 8px; }
+    .page-about .info-label { width: auto; }
     .site-page .player-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 11px; }
     .site-page .player-img-box { height: clamp(145px,47vw,230px); }
     .site-page .player-info { padding: 12px 10px 14px; }
