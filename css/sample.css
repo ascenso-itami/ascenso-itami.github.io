@@ -2590,6 +2590,9 @@ body {
 .site-page .form-group textarea { min-height: 135px; }
 .site-page .submit-btn,.site-page .sns-btn,.site-page .back-btn { border-radius: 2px; background: var(--club-green); color: #fff; box-shadow: none; }
 .site-page .submit-btn:hover,.site-page .sns-btn:hover,.site-page .back-btn:hover { background: #24543a; transform: translateY(-2px); }
+.page-join .sns-btn { background: #ABA085; color: #101b17; }
+.page-join .sns-btn:hover { background: #beb297; opacity: 1; }
+.page-join .sns-btn:focus-visible { outline: 2px solid #ABA085; outline-offset: 4px; }
 .site-page .insta-banner-card { border-radius: 3px; }
 .site-page .back-btn-area { margin-top: 64px; }
 .site-page .back-btn { padding: 14px 22px; }
