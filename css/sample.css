@@ -2639,6 +2639,12 @@ body {
     .site-page .about-sub-section { margin-top: 46px; padding-top: 30px; }
     .page-about .info-row { flex-direction: column; gap: 8px; }
     .page-about .info-label { width: auto; }
+    .site-page .insta-banner-section { padding: 0; }
+    .site-page .insta-banner-card { padding: 18px 16px; gap: 12px; }
+    .site-page .insta-banner-icon { width: 40px; height: 40px; }
+    .site-page .insta-banner-text { min-width: 0; }
+    .site-page .insta-banner-sub { font-size: 10px; letter-spacing: 1.2px; }
+    .site-page .insta-banner-main { font-size: clamp(13px, 3.6vw, 16px); white-space: nowrap; }
     .site-page .player-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 11px; }
     .site-page .player-img-box { height: clamp(145px,47vw,230px); }
     .site-page .player-info { padding: 12px 10px 14px; }
